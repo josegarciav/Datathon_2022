@@ -15,4 +15,4 @@ We are proud of the work we did for this competition and believe that our soluti
 Some of the geo data we used to develop our solution is included in the Excel files attached above. The geo data was obtained and saved using Google Map's API (Python's library geopy.geocoders).
 
 ## Acknowledgments
-We would like to thank the organizers of the Datathon 2022 competition (Big Data Dominicana) for providing us with this opportunity.
+Special thanks to the organizers of the Datathon 2022 competition (Big Data Dominicana) for providing us with this opportunity.
